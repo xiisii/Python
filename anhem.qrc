@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="kk">
+    <file>quli.png</file>
+  </qresource>
+</RCC>

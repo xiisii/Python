@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>nho.png</file>
+    <file>dau.png</file>
+    <file>dua hau.png</file>
+    <file>cam.png</file>
+    <file>tralipton.png</file>
+    <file>trasua.png</file>
+    <file>travietquat.png</file>
+    <file>tradao.png</file>
+    <file>cfesua1.png</file>
+    <file>blackcfe.png</file>
+    <file>americano.png</file>
+    <file>capuchino.png</file>
+  </qresource>
+</RCC>
